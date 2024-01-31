@@ -1,0 +1,9 @@
+##### **APRESENTAÇÃO**
+Esse repositorio tem por obetivo ser um espaço de estudos sobre visão computacional utiliando python. 
+
+Instalação de repositorio.
+
+
+#### **Files**
+
+- histograma.py - this file has a study about how work histogram and how use matplotlib and open cv for analises the image
